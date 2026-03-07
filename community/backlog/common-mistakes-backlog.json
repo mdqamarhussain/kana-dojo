@@ -317,14 +317,14 @@
     "explanation": "Negative polite form already complete. (Pattern set 2)",
     "id": 40,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私は日本語を話しますです。",
     "correct": "私は日本語を話します。",
     "explanation": "Do not stack ます and です in one predicate. (Pattern set 3)",
     "id": 41,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
